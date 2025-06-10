@@ -1,0 +1,1 @@
+This project implements a Trie (Prefix Tree) data structure in JavaScript, supporting efficient insertion and lookup operations for strings. A trie is especially useful for solving problems related to prefix matching, autocomplete, and dictionary-based searches.
